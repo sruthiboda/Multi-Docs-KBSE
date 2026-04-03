@@ -1,4 +1,7 @@
-🚀 AI – Multi-Document Knowledge Base Search Engine
+
+## 🚀 Live Demo
+
+👉 [Click here to use the app](https://multi-docs-kbse-huzqndko7noyg6zsu6ehpk.streamlit.app/)🚀 AI – Multi-Document Knowledge Base Search Engine
 
 AI-powered document assistant that lets you chat with multiple PDFs using Retrieval-Augmented Generation (RAG)
 
