@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 
 # Updated imports
-from langchain.text_splitters import CharacterTextSplitter
+from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.memory import ConversationBufferMemory
