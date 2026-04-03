@@ -12,7 +12,7 @@ This project is built based on the concept of RAG (Retrieval-Augmented Generatio
 
 #How it Works
 
-![Image of Assignment](./docs/Knowledgebase_img.png>)
+![Image of Assignment](./docs/Knowledgebase_img.png)
 
 #<video controls src="20260402-1754-32.4092328.mp4" title="Live Demo"></video>
 
